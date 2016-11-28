@@ -52,6 +52,7 @@ public class SeckillServiceTest {
 		
 	}
 	
+	/*
 	@Test
 	public void testExecuteSeckill() throws Exception{
 		long id = 1000L;
@@ -90,7 +91,7 @@ public class SeckillServiceTest {
 		
 	}
 	
-		
+		*/
 	
 	
 }
